@@ -1,0 +1,14 @@
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\BusinessServices.deps.json
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\BusinessServices.dll
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\BusinessServices.pdb
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\BusinessEntities.dll
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\Repositories.dll
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\BusinessEntities.pdb
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\bin\Debug\netcoreapp3.1\Repositories.pdb
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.csprojAssemblyReference.cache
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.AssemblyInfoInputs.cache
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.AssemblyInfo.cs
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.csproj.CoreCompileInputs.cache
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.csproj.CopyComplete
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.dll
+E:\Angular_Online_Tutorials\Net_Core\MallWebAPI\BusinessService\obj\Debug\netcoreapp3.1\BusinessServices.pdb
